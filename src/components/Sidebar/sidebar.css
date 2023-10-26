@@ -1,0 +1,9 @@
+ul li:hover {
+  background-color: #007bff;
+  
+  border-radius: 5px;
+}
+.sidebar .nav-item.active {
+  background-color: #007bff;
+  border-radius: 5px;
+}

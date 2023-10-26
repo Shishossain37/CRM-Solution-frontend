@@ -1,0 +1,19 @@
+h1,
+h6,
+h3,
+p {
+  color: #5861ae;
+}
+.btnn {
+  color: #5861ae;
+  border-color: #5861ae;
+  margin-left: 10px;
+}
+.form-label{
+  color: #5861ae;
+  font-size: small;
+}
+.btnn2{
+  border-color: #FFF;
+background-color:  #5861ae;
+}

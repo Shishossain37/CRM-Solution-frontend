@@ -1,0 +1,7 @@
+.alert{
+    width: 40%;
+    position: absolute;
+    left: 49%;
+    top: 10%;
+    font-size: smaller;
+}
